@@ -72,7 +72,6 @@ export default function ApplicationPostForm() {
     fetch(url, {
       method: "POST",
       headers: {
-        Accept: "application/json",
         "Content-Type": "application/json",
       },
       body: JSON.stringify(applicationToCreate),

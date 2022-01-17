@@ -13,7 +13,7 @@ builder.Services.AddCors(options =>
             builder
             .AllowAnyMethod()
             .AllowAnyHeader()
-            .WithOrigins("http://localhost:3000", "https://appname.azurestaticapps.net");
+            .WithOrigins("http://localhost:3000", " https://victorious-stone-0a9e30403.1.azurestaticapps.net");
         });
 });
 
