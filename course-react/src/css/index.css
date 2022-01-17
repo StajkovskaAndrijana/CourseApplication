@@ -1,0 +1,24 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  overflow-x: hidden;
+}
+
+.container-fluid {
+  padding: 0;
+}
+#company {
+  background-color: #efddc1;
+}
+
+#participants {
+  background-color: #f7f5f3;
+}
+
+.btn-primary {
+  background-color: #563b3f !important;
+  border: none;
+}
+
+.red {
+  color: red;
+}
