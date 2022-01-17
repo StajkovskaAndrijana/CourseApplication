@@ -13,3 +13,5 @@
 // start the react app</br>
 <b>cd CourseApplication/course-react</b></br>
 <b>npm start</b>
+</br></br></br>
+Live demo: https://victorious-stone-0a9e30403.1.azurestaticapps.net
